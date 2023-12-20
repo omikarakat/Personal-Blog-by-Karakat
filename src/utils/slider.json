@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Elysium Gardens",
+    "detail": "Blossom Lane, Spring Valley. Serene environment for enchanting photoshoots.",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lumière Haven",
+    "detail": "Radiant Street, Sunset Hills. Capturing the golden hour in every frame.",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Azure Oasis",
+    "detail": "Bluewater Bay, Coastal Retreat. A picturesque location with seaside charm.",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Mystic Woods Estate",
+    "detail": "Whispering Pines Drive, Enchanted Forest. Surreal backdrops for magical moments.",
+    "image": "./r4.png"
+  },
+  {
+    "name": "Urban Skylines Studio",
+    "detail": "Downtown Avenue, Cityscape Plaza. Modern cityscapes for contemporary photography.",
+    "image": "./r5.png"
+  },
+  {
+    "name": "Vintage Charm Manor",
+    "detail": "Retro Road, Nostalgia Lane. Timeless settings for classic photo sessions.",
+    "image": "./r6.png"
+  }
+]
